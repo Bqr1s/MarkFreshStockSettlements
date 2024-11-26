@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <name>Settlement Highlight</name>
+    <author>Boris</author>
+    <packageId>Boris.SettlementHighlight</packageId>
+    <description>Highlights restocked settlements on the world map</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+</ModMetaData>
