@@ -6,14 +6,14 @@ using RimWorld.Planet;
 using HarmonyLib;
 using UnityEngine;
 
-namespace SettlementHighlight
+namespace MarkFreshStockSettlements
 {
 	[StaticConstructorOnStartup]
 	public class Main
 	{
 		static Main()
 		{
-			Harmony pat = new Harmony("SettlementHighlight");
+			Harmony pat = new Harmony("MarkFreshStockSettlements");
 			pat.PatchAll();
 		}
 	}

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModMetaData>
-    <name>Settlement Highlight</name>
+    <name>Mark Fresh Stock Settlements</name>
     <author>Boris</author>
-    <packageId>Boris.SettlementHighlight</packageId>
-    <description>Highlights restocked settlements on the world map</description>
+    <packageId>Boris.MarkFreshStockSettlements</packageId>
+    <description>Highlights restocked settlements on the world map. Thanks to Clever Ape and Stylish for trying out this mod first.</description>
     <supportedVersions>
         <li>1.5</li>
     </supportedVersions>
