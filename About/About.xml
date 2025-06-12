@@ -6,6 +6,7 @@
     <description>Highlights restocked settlements on the world map. Thanks to Clever Ape and Stylish for trying out this mod first.</description>
     <supportedVersions>
         <li>1.5</li>
+		<li>1.6</li>
     </supportedVersions>
 		<loadAfter>
 		<li>brrainz.harmony</li>

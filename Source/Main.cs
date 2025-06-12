@@ -21,7 +21,7 @@ namespace MarkFreshStockSettlements
 	[HarmonyPatch(typeof(WorldSelectionDrawer), "SelectionOverlaysOnGUI")]
 	public static class ShowRestockedSettlements
 	{
-		public static void Postfix(WorldObject __instance)
+		public static void Postfix()
 		{
 			List<Settlement> settlements = Find.WorldObjects.Settlements;
 			foreach (Settlement s in settlements)
